@@ -66,7 +66,7 @@ To set up the project on your local machine, follow these steps:
 To run the trading bot, use the following command:
 
 ```bash
-node src/server.js
+node src/index.js
 ```
 
 The server will start and listen for requests on `http://localhost:3000`.
