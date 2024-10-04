@@ -71,6 +71,17 @@ node src/index.js
 
 The server will start and listen for requests on `http://localhost:3000`.
 
+
+## Demo Video
+
+
+
+https://github.com/user-attachments/assets/7f5a64f7-5e11-4bad-9297-2dd3c9b129c9
+
+
+
+
+
 ## Live API Endpoints
 
 You can interact with the trading bot using the following live API endpoints:
